@@ -1,3 +1,4 @@
+# pip install opencv-contrib-python INSTALAR O RASTREADOR
 import cv2
 import time
 import math
